@@ -9,3 +9,4 @@ This is a repo for the Markdown course on Scrimba to share the articles created 
 - Dave Collison | [My first markdown post on dev.to](https://dev.to/thebigdavec/just-getting-started-4ekn "Dave Collison's Markdown Post")
 - Jason Schwarz | [My first markdown post on dev.to](https://dev.to/passandscore/blockchain-is-changing-our-world-one-block-at-a-time-4h4b "Jason Schwarz's First Markdown Post About Blockchain")
 - Dheeraj Purohit | [My Recent Blog on React Debouncing](https://dev.to/purohitdheeraj/optimized-react-search-bar-5em6 "Optimized React Search Bar 🔯")
+- Jea Reath | [Fear Not the Markdown: A Beginner's Quest](https://dev.to/jennifer_reath_ddfb3690ae/fear-not-the-markdown-a-beginners-quest-4flc)
